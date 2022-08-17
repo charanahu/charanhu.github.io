@@ -18,7 +18,7 @@ purposes and are publicly available through the ISIC archive. Here, I'm using RG
 size 28*28, so total 784*3 pixel in each row). The objective to
 build deep learning model to classify given query image into
 one of the 7 different classes of skin cancer. 
-![Attention Mechanism](/projects/skin-cancer-detection-cnn/skin-cancer-detection-cnn.jpeg)
+![Model Architecture](https://github.com/charanhu/Skin_Cancer_Detection_MNIST/blob/main/model_architecture.png?raw=true)
 
 Furthermore, beam search is used during inference to enhance the prediction result. The network was trained in **PyTorch** on an **Nvidia GTX 1060** graphics card for over 80 epochs.
 

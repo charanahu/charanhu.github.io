@@ -41,7 +41,7 @@ params:
   profileMode:
     enabled: true
     title: "Charana H U"
-    subtitle: I'm a Software Development Engineer at TietoEvry. Information Science Graduate with a Distinction from SDM Institute of Technology, Ujire, Dharmasthala, Mangalore, batch of 2021. I love math, programming, data science, and books. I like to learning, sharing and growing every day. I’m currently learning Applied Data Science, Machine Learning & Deep Learning. I’m looking to collaborate on Data Science, Machine Learning & Deep Learning projects. Being a technology-enthusiast, I like exploring new technologies and leveraging them to solve real-life problems. I'm driven by the will to create an impact using tech and science. I explain Tech, Edu, Data Science, Machine Learning, Deep Learning and Programming concepts on my YouTube channel "Charan H U".
+    subtitle: "I'm a **Software Development Engineer** at **TietoEvry**, \n\n**B.Eng.** in **Information Science & Engineering** at **SDM Institute of Technology, Ujire, Dharmasthala, Mangalore**, batch of 2021. \n\n**Applied AI**, **Machine Learning** & **Deep Learning** Practioner,\n\n**Internet** content Creator at **YouTube**"
     imageUrl: "home/Charan H U.jpg"
     imageWidth: 220
     imageHeight: 220

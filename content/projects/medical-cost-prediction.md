@@ -3,7 +3,7 @@ title: "Medical Insurance Cost Prediction using Machine Learning"
 description: "Can computers detect the cancer of an image?"
 dateString: Aug 2022 - Aug 2022
 draft: false
-tags: ["Python", "PyTorch", "CNN", "ML", "DL", "AI", "Machine Learning"]
+tags: ["Python", "PyTorch", "CNN", "ML", "DL", "AI", "Machine Learning", "Medical Insurance Cost Prediction"]
 showToc: false
 weight: 201
 cover:

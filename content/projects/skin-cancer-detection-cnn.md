@@ -1,5 +1,5 @@
 ---
-title: "Skin Cancer Detection CNN"
+title: "Skin Cancer Detection using CNN(Convolutional Neural Network)"
 description: "Can computers detect the cancer of an image?"
 dateString: Jan 2021 - May 2021
 draft: false

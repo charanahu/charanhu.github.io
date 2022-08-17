@@ -5,7 +5,7 @@ dateString: Jan 2021 - May 2021
 draft: false
 tags: ["Python", "PyTorch", "CNN", "ML", "DL", "AI"]
 showToc: false
-weight: 203
+weight: 201
 cover:
     image: "projects/skin-cancer-detection-cnn/skin-cancer-detection-cnn copy.jpeg"
 --- 

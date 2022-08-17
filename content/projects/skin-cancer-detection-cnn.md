@@ -3,18 +3,24 @@ title: "Skin Cancer Detection CNN"
 description: "Can computers detect the cancer of an image?"
 dateString: Jan 2021 - May 2021
 draft: false
-tags: ["Python", "PyTorch", "CNN", "LSTM", "CRNN", "DL", "AI"]
+tags: ["Python", "PyTorch", "CNN", "ML", "DL", "AI"]
 showToc: false
 weight: 203
 cover:
     image: "projects/skin-cancer-detection-cnn/skin-cancer-detection-cnn copy.jpeg"
 --- 
-### 🔗 [Colab Notebook](https://colab.research.google.com/drive/1Q553uslYW3Ho6P1G46SOEDxOS_VmHXfJ)
+### 🔗[Colab Notebook](https://colab.research.google.com/github/charanhu/Skin_Cancer_Detection_MNIST/blob/main/Skin_Cancer_Detection.ipynb)
 
 ## Description
-In this project, I implemented the paper **[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)**. The neural network, a combination of **CNN** and **LSTM**, was trained on the **MS COCO** dataset and it learns to generate captions from images. 
-
-As the network generates the caption, word by word, the model’s gaze (attention) shifts across the image. This allows it to focus on those parts of the image which is more relevant for the next word to be generated. 
-![Attention Mechanism](/projects/skin-cancer-detection-cnn/skin-cancer-detection-cnn copy.jpeg)
+In this project, The dataset consists of 10015 dermatoscopic images which
+are released as a training set for academic machine learning
+purposes and are publicly available through the ISIC archive. Here, I'm using RGB pixel values of that images(each image of
+size 28*28, so total 784*3 pixel in each row). The objective to
+build deep learning model to classify given query image into
+one of the 7 different classes of skin cancer. 
+![Attention Mechanism](/projects/skin-cancer-detection-cnn/skin-cancer-detection-cnn.jpeg)
 
 Furthermore, beam search is used during inference to enhance the prediction result. The network was trained in **PyTorch** on an **Nvidia GTX 1060** graphics card for over 80 epochs.
+
+Model is deployed on heroku cloud. 
+#### 🔗[Click here to Upload a sample skin image to see the result](https://skin-cancer-detection-cnn.herokuapp.com/)

@@ -67,7 +67,7 @@ params:
     - name: "youtube"
       url: "https://www.youtube.com/c/CharanaHU/"
     - name: "cv"
-      url: ""
+      url: "static/home/Resume_Charan.pdf"
 
   # text search
   fuseOpts:

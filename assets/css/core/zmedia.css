@@ -9,6 +9,10 @@
         transform: scale(0.85);
     }
 
+    .profile span{
+        text-align: justify;
+    }
+
     /* post-entry */
     .first-entry {
         min-height: 260px;

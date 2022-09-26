@@ -7,10 +7,6 @@
     padding-top: calc(var(--header-height) + var(--gap));
 }
 
-.main .profile .subtitle {
-    text-align: justify;
-}
-
 .page-header h1 {
     font-size: 40px;
 }

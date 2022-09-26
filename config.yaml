@@ -41,7 +41,7 @@ params:
   profileMode:
     enabled: true
     title: "Charana H U"
-    subtitle: "I'm a **Software Development Engineer** at **TietoEvry**, \n\n**B.Eng.** in **Information Science & Engineering** at **SDM Institute of Technology, Ujire, Dharmasthala, Mangalore**, batch of 2021. \n\n**Applied AI**, **Machine Learning** & **Deep Learning** Practioner,\n\n**Internet** content Creator at **YouTube**"
+    subtitle: "I am a Software Development Engineer at TietoEvry in Bangalore, KA, IN. Prior to that, I was a .NET Full Stack Developer Intern at DLithe in Bangalore, KA, IN. I did my bachelors in Information Science at SDM Institute of Technology-Ujire, India. My work lies at the intersection of Computer Vision and Machine Learning. Specifically, I am working on leveraging machine learning techniques for understanding and improving computer vision models. The main research question is how different components of a computer vision system need to learn and interact with each other for robust perception."
     imageUrl: "home/Charan H U.jpg"
     imageWidth: 220
     imageHeight: 220

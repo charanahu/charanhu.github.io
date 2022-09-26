@@ -9,18 +9,6 @@
         transform: scale(0.85);
     }
 
-    .main .profile span{
-        text-align: justify;
-    }
-
-    .profile span p{
-        text-align: justify;
-    }
-
-    .profile .span{
-        text-align: justify;
-    } 
-
     /* post-entry */
     .first-entry {
         min-height: 260px;

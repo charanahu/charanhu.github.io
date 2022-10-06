@@ -9,17 +9,17 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog
-      weight: 20
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 30
+      weight: 20
     - identifier: experience
       name: Experience
       url: /experience
+      weight: 30
+    - identifier: blog
+      name: Blog
+      url: https://charanhu.medium.com/
       weight: 40
     - identifier: search
       name: Search

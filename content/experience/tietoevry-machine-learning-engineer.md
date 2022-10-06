@@ -1,5 +1,5 @@
 ---
-title: "SMachine Learning Engineer"
+title: "Machine Learning Engineer"
 description: "TietoEvry (India)"
 dateString: Sept 2022 - Ongoing
 draft: false

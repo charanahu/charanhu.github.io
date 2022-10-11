@@ -19,7 +19,7 @@ menu:
       weight: 30
     - identifier: videos
       name: Videos
-      url: /videos
+      url: https://youtube.com/charanahu
       weight: 40
     - identifier: blog
       name: Blog

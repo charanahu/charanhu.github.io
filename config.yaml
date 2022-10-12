@@ -25,10 +25,14 @@ menu:
       name: Blog
       url: https://charanhu.medium.com/
       weight: 50
+    - identifier: books
+      name: Books
+      url: /books
+      weight: 60
     - identifier: search
       name: Search
       url: /search
-      weight: 60
+      weight: 70
 
 params:
   # theme
